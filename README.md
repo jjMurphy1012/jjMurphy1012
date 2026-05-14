@@ -1,6 +1,6 @@
 # Hi, I'm Jiajun Zheng
 
-M.S. Software Engineering Systems student at Northeastern University, seeking Summer 2026 software engineering internship opportunities in full-stack development and AI applications.
+M.S. Software Engineering Systems student at Northeastern University, seeking software engineering jobs in full-stack development and AI applications.
 
 I build full-stack products and AI agent systems with React, TypeScript, Java, Spring Boot, PostgreSQL, LangGraph, and modern cloud/database tooling.
 
